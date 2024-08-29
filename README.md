@@ -1,44 +1,51 @@
-# Tugas-1-Sistem-Operasi.
-
-# Cara Menginstal Linux: Panduan Langkah demi Langkah
+# Tugas-1-Sistem-Operasi
 
 ## Proses Instalasi
 
 1. **Tampilan Awal Boot**
    - Pengguna bisa mencoba sistem untuk memastikan semuanya telah berjalan dengan benar sebelum yakin untuk menginstal.
-![Tampilan awal boot Linux](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/1.png)
+
+   ![Tampilan awal boot Linux](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/1.png)
 
 2. **Pemilihan Bahasa**
    - Pilih bahasa yang akan digunakan oleh Sistem Operasi dan proses instalasi.
-![Pemilihan Bahasa](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/2.png)
+
+   ![Pemilihan Bahasa](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/2.png)
 
 3. **Ringkasan Instalasi**
    - Tinjau opsi konfigurasi yang telah Anda pilih.
-![Ringkasan Instalasi](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/3.png)
+
+   ![Ringkasan Instalasi](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/3.png)
 
 4. **Tujuan Instalasi**
    - Pilih di mana sistem operasi akan diinstal. Dalam panduan ini, kita akan memilih opsi kustom.
-![Tujuan Instalasi](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/4.png)
+
+   ![Tujuan Instalasi](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/4.png)
 
 5. **Pemilihan Sistem File**
    - Kita akan memilih Btrfs karena merupakan sistem file paling modern yang tersedia.
-![Pemilihan Sistem File](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/5.png)
+
+   ![Pemilihan Sistem File](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/5.png)
 
 6. **Pemasangan Partisi**
-   - Kita akan menginstal Linux dengan partisi yang di-mount ke `/` (juga disebut root), yang merupakan direktori dasar tempat file Linux yang paling penting berada.
-![Pemasangan Partisi](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/6.png)
+   - Kita akan menginstal Linux dengan partisi yang di-mount ke `/` (juga disebut root), yang merupakan direktori dasar tempat file Linux yang paling penting berada. Kita juga `mount` sebagian dari sistem operasi ke `/home` terpisah dari root untuk lebih mudah manajemen file, namun dalam kasus ini kita akan mount sistem operasi seperti pada awal
+
+   ![Pemasangan Partisi](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/6.png)
 
 7. **Pembuatan Password Root**
    - Buat password root untuk kegiatan superuser.
-![Pembuatan Password Root](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/7.png)
+
+   ![Pembuatan Password Root](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/7.png)
 
 8. **Mulai Instalasi**
    - Setelah semua konfigurasi selesai, klik 'Mulai Instalasi' dan tunggu sampai proses selesai.
-![Mulai Instalasi](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/8.png)
+
+   ![Mulai Instalasi](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/8.png)
 
 9. **Penyelesaian**
    - Setelah instalasi selesai, Anda bisa mencoba Linux atau reboot untuk masuk ke sistem yang terinstal.
-![Penyelesaian](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/7.png)
+
+   ![Penyelesaian](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/9.png)
 
 ## Penjelasan Opsi Sistem File
 

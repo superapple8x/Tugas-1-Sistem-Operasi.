@@ -6,6 +6,7 @@
 
 1. **Tampilan Awal Boot**
    - Pengguna bisa mencoba sistem untuk memastikan semuanya telah berjalan dengan benar sebelum yakin untuk menginstal.
+![Tampilan awal boot Linux](https://github.com/superapple8x/Tugas-1-Sistem-Operasi./blob/main/1.png)
 
 2. **Pemilihan Bahasa**
    - Pilih bahasa yang akan digunakan oleh Sistem Operasi dan proses instalasi.
